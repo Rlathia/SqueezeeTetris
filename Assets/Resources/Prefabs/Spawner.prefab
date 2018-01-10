@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1574983275812716}
+  m_IsPrefabParent: 1
+--- !u!1 &1574983275812716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4667499188813246}
+  - component: {fileID: 114924587767719586}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4667499188813246
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1574983275812716}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.54, y: 16.01, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114924587767719586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1574983275812716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086c12fba41ca2b4e9ab1c8093fb4c9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tetrisObjects:
+  - {fileID: 1926750737496290, guid: 02ac075ed91845f42b04ebef49c40f63, type: 2}
+  - {fileID: 1358248880136708, guid: 905e8ca7cbae72745956d7a35985bd3c, type: 2}
+  - {fileID: 1787849350158678, guid: 8ef294ffd09502c428a16ee8ce04859e, type: 2}
+  - {fileID: 1954965438102616, guid: dff93b74512e80743ae6c24e39baea82, type: 2}
+  - {fileID: 1060367577110510, guid: 9d9fde3bac32475449c7133423f234f5, type: 2}

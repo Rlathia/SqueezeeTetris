@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TetrisController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TetrisController.cs" Line="20" Column="9" />
+      <File FileName="Assets\Scripts\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TurretController.cs" Line="31" Column="24" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="66" Column="27" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="21" Column="32" />
+      <File FileName="..\lab6\MailPilot(5)\2Dshooter\Assets\Scripts\FireballController.cs" Line="1" Column="1" />
+      <File FileName="..\lab6\MailPilot(5)\2Dshooter\Assets\Scripts\SpaceshipController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\rajvi\Desktop\SEM 5\Game Development\GroupProject\Assets\Scripts\Tetris.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
